@@ -21,11 +21,23 @@ O relatório contém os seguintes elementos:
 - **Segunda Página**: Criei uma segunda página do relatório, conforme solicitado.
 - **Publicação**: O relatório foi publicado no Power BI Service para facilitar o acesso e a visualização.
 
+## Links para Templates e Dados Utilizados
+
+- **Dados Utilizados**: [Sample Financials no GitHub](https://github.com/julianazanelatto/power_bi_analyst)
+- **Templates**: Links para templates do Figma e outros recursos podem ser adicionados aqui conforme necessário.
+
 ## Visualização do Relatório
 
 Para visualizar o relatório e interagir com os dados, acesse o link abaixo:
 
 [Visualizar Relatório](https://app.powerbi.com/groups/me/list?experience=power-bi)
+
+## Dicas e Recursos para Aprofundamento
+
+- **Cursos e Tutoriais**: Explore plataformas como a DIO, Coursera, Udemy e YouTube para cursos de Power BI.
+- **Comunidades**: Participe de grupos no LinkedIn e fóruns como o Power BI Community para trocar experiências e obter dicas.
+- **Perfis Relevantes**: Siga especialistas na área, como a professora **Juliana Mascarenhas**, para insights valiosos e atualizações sobre o mercado de Power BI.
+- **Documentação Oficial**: Consulte a [documentação do Power BI](https://docs.microsoft.com/pt-br/power-bi/) para aprofundar seu conhecimento.
 
 ## Conclusão
 
@@ -35,6 +47,7 @@ Este desafio foi uma ótima oportunidade para aplicar os conceitos aprendidos e 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnnatankrause/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnnatanKrause)
+[![DIO](https://img.shields.io/badge/DIO-ff3e00?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/johnnatankrause)
 
 ## Habilidades
 
@@ -46,5 +59,3 @@ Este desafio foi uma ótima oportunidade para aplicar os conceitos aprendidos e 
 Aqui está uma breve demonstração do projeto em um GIF:
 
 ![Demonstração do Relatório](https://github.com/JohnnatanKrause/Desafio-06-DIO-Criando-um-Relat-rio-Gerencial-de-Vendas-com-Power-BI/blob/master/Teste%20de%20Projeto%20do%20desafio.gif?raw=true)
-
-
