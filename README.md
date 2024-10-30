@@ -1,5 +1,3 @@
-![Fundo do Projeto](https://github.com/JohnnatanKrause/Desafio-06-DIO-Criando-um-Relat-rio-Gerencial-de-Vendas-com-Power-BI/blob/master/Power%20BI%20related%20image.png?raw=true)
-
 # Desafio 06: Criando um Relatório Gerencial de Vendas com Power BI
 
 👋 Olá, eu sou Johnnatan Krause! Este é o meu projeto para o **Desafio 06** do módulo de Power BI no bootcamp de **Engenharia de Dados com Python**.
@@ -43,6 +41,10 @@ Este desafio foi uma ótima oportunidade para aplicar os conceitos aprendidos e 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Fundo do Projeto](CF_2344308_0132e3218cb012be4ce4b6bd2a78af5c.png)
+## Demonstração do Projeto
+
+Aqui está uma breve demonstração do projeto em um GIF:
+
+![Demonstração do Relatório](https://github.com/JohnnatanKrause/Desafio-06-DIO-Criando-um-Relat-rio-Gerencial-de-Vendas-com-Power-BI/blob/master/Teste%20de%20Projeto%20do%20desafio.gif?raw=true)
 
 
